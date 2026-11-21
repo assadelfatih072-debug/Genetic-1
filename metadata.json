@@ -1,0 +1,6 @@
+{
+  "name": "Medical Genetics 1 — Interactive Mastery Studio",
+  "description": "Interactive 40-question Medical Genetics MCQ trainer with tailored Arabic wrong-answer explanations, live feedback, and adaptive mistake repetition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
